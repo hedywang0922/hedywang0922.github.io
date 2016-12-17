@@ -1,0 +1,95 @@
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    position: fixed;
+}
+
+.navbar p {
+    font-size: 18px;
+    color: #313131;
+}
+
+.navbar-nav li a:hover {
+    color: teal !important;
+}
+
+.container-fluid {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.bg-1 {
+    width: 100%;
+    background: lightpink; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(90deg, lightpink, lightblue,lightskyblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(90deg, lightpink, lightblue,lightskyblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(90deg, lightpink, lightblue,lightskyblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(90deg, lightpink, lightblue,lightskyblue); /* Standard syntax */
+    font-family: 'Great Vibes', cursive, serif, sans-serif;
+    padding-top: 80px;
+    padding-bottom: 130px;
+}
+
+.bg-1 h1 {
+    margin-bottom: 30px;
+}
+
+.bg-1 img {
+    height: 280px;
+    width: 340px;
+    display: inline;
+    border-radius: 50%;
+}
+
+.bg-2 {
+    background: beige;
+}
+
+.bg-3 {
+    background: powderblue ;
+}
+.bg-3 h3 {
+    margin-bottom: 35px;
+}
+
+.bg-3 .content-text  {
+    margin-top: 15px;
+}
+
+.tlt {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 32px;
+}
+
+.bg-3 a {
+    color: #333333;
+}
+
+.bg-3 a:hover {
+    color: #003366;
+}
+.bg-3 .social {
+    margin-top: 25px;
+}
+.bg-3 .social a {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.bg-3 #click {
+    display: block;
+    width: 200px;
+    border: 1px solid #313131;
+    padding: 5px;
+    margin: 35px auto;
+}
+
+.add {
+    background-color: #d3d3d3;
+}
